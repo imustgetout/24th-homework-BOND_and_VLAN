@@ -27,3 +27,5 @@ vagrant up
 ```
 ansible-playbook playbook.yml
 ```
+Схема стенда:
+[alt_text](https://github.com/imustgetout/24th-homework-BOND_and_VLAN/blob/main/network23-1801-024140.png)
