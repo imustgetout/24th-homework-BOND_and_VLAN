@@ -16,7 +16,9 @@ testClient2 <-> testServer2
 
 ### Решение
 Прилагается Vagrantfile и playbook.yml
-Все операции в yml реализованы с помощью модуля nmcli
+
+Все операции в yml реализованы с помощью модуля nmcli.
+
 После поднятия вируталок:
 ```
 vagrant up
